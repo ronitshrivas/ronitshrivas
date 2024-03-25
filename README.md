@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitshrivas&label=Profile%20views&color=0e75b6&style=flat" alt="ronitshrivas" /> </p>
 
-- 💻I'm currently working on personal projects: **E-learning Apps**
+- 💻I'm currently working on personal projects: **Cross-platform Apps**
 
-- 🔭Ongoing Projects: **Rental Services App**
+- 🔭Ongoing Projects: **Mobile,Desktop App**
 
 - 📫 How to reach me **ronit.shrivastav03@gmail.com**
 
