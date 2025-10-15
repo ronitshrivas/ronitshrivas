@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Workshop
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full Stack+Developer+%7C+Mobile+%26+Desktop+Specialist;Flutter+Expert+%7C+.NET+Architect;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+Mobile+%26+Desktop+Specialist;Flutter+Expert+%7C+.NET+Architect;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ronitshrivas&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/ronitshrivas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronit-shrivastav)
@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 
-```typescript
 const Ronit = {
     title: "Full-Stack Developer & Mobile Architect",
     location: "🌍 Building Global Solutions",
@@ -29,9 +28,9 @@ const Ronit = {
     architecture: ["Clean Architecture", "MVVM", "Repository Pattern"],
     motto: "Code with Purpose, Build with Passion 💡"
 };
-```
 
----
+
+
 
 ## 💼 What I'm Working On
 
