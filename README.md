@@ -116,12 +116,15 @@ const Ronit = {
 
 ---
 
-## 💡 Featured Projects
+## 💡 Project Showcase
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronitshrivas&repo=YOUR-REPO-NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF)](https://github.com/ronitshrivas/YOUR-REPO-NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronitshrivas&repo=YOUR-REPO-NAME-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7&text_color=FFFFFF)](https://github.com/ronitshrivas/YOUR-REPO-NAME-2)
+### 🚀 Building the Future, One Commit at a Time
+
+I believe in creating solutions that make a difference. My projects span mobile applications, desktop software, and cloud-based systems—each designed with scalability, performance, and user experience in mind.
+
+**🔗 Explore my repositories below to see my latest work!**
 
 </div>
 
@@ -148,9 +151,17 @@ I'm always excited to collaborate on innovative projects and discuss new ideas. 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Contribution Graph
+### 📈 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/ronitshrivas/ronitshrivas/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitshrivas&custom_title=Ronit's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF&area_color=0D1117&title_color=A177F7&area=true" alt="Contribution Graph" width="98%"/>
+
+<!--
+To enable snake animation, create a GitHub Action:
+1. Create .github/workflows/snake.yml in your profile repo
+2. Add the Platane/snk action configuration
+3. Uncomment the line below after setup
+-->
+<!-- ![Snake animation](https://raw.githubusercontent.com/ronitshrivas/ronitshrivas/output/github-contribution-grid-snake-dark.svg) -->
 
 ---
 
